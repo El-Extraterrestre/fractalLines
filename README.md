@@ -2,8 +2,14 @@
 inspired by a screensaver from a DMU CNC-Mill
 
 
-its generates a line and then makes new lines based on the lines
+its generates a line and then makes new lines based on the lines and a rule set
+
+
 it uses pygame as a graphics libary
+
+
+use ESC to close the window (it closes after the current image)
+
 
 Examples Pictures
 
